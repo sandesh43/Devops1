@@ -21,7 +21,7 @@
         <name>RepositoryProxySnap</name>
         <url>http://192.168.56.111:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
-</distributionManagement
+         </distributionManagement>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 
   <modules>
